@@ -1,6 +1,6 @@
 # AppGen: Mobility-aware App Usage Behavior Generation for Mobile Users
 
-the code is still refining...
+the code is still being refined...
 
 ## Dataset
 
